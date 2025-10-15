@@ -1,8 +1,4 @@
 <?php
-// ============================
-// index.php - Website SMPN 23 DEPOK (tanpa carousel & tanpa jadwal)
-// ============================
-
 // NAV & TITLE
 $nav = ['Home', 'Profil', 'VisiMisi', 'Kegiatan', 'Prestasi'];
 $judulNavbar = "SMPN 23 DEPOK";
