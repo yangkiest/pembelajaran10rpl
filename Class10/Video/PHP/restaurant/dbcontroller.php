@@ -1,8 +1,8 @@
 <?php 
     class DB {
-        private $host = "127.0.0.1";
+        private $host = "localhost";
         private $user = "root";
-        private $password = "";
+        private $password = "123456";
         private $database = "dbrestaurant";
         private $koneksi;
 
